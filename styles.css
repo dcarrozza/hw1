@@ -1,0 +1,15 @@
+body { font-family: "Arial"; font-size: 16; background-color: whitesmoke; width: 960px; margin: 20px auto; }
+
+ul { line-height: 1.75; }
+
+p { line-height: 1.25; }
+
+h1 { color: midnightblue; border-bottom: solid 4px gray; padding-bottom: 3px}
+
+h2 { color: midnightblue; font-style: italic; }
+
+.date { color: purple; font-style: italic; font-weight: bold; }
+
+img { padding: 5px }
+
+div { border-bottom: solid 4px gray; }
